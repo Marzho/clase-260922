@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="sp">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentacion al diplomado</title>
+</head>
+<body>
+    <p>
+        <b>Nombre:</b> <em> Ivan Marcelo Reyes Quiroga </em>
+    </p>
+    <p>
+        <b>Edad:</b> <em>39 </em>
+    </p>
+    <p>
+        <b>Experencia:</b> <em>ni </em>
+    </p>
+    <p>
+        <b>Como me entere del diplomado:</b> <em> </em>
+    </p>
+</body>
+</html> 
